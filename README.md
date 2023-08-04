@@ -17,7 +17,9 @@ This is a port of the original Xcode Classic Dark theme.
 
 ## Color Palette
 
-<style>
+![Color reference](./Assets/color-reference.png)
+
+<!-- <style>
     .heatMap td {
       color: black;
       font-weight: bold;
@@ -75,7 +77,7 @@ This is a port of the original Xcode Classic Dark theme.
 | #CC66FF         | Other Properties and Globals          |
 | #92A1B1         | Heading                               |
 
-</div>
+</div> -->
 
 ## Font
 
