@@ -1,3 +1,5 @@
+![Porto Dark 01](./Assets/DarkTheme.png)
+
 # Porto Dark theme for Xcode
 
 This is a port of the original Xcode Classic Dark theme.
