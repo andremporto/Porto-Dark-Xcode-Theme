@@ -6,7 +6,7 @@ This is a port of the original Xcode Classic Dark theme.
 
 ## Installation
 
-1. You can install the theme by downloading the theme file and copying it to:
+1. You can install the theme by downloading the "Porto Dark.xccolortheme" theme file and copying it to:
 
 ```ruby
    ~/Library/Developer/Xcode/UserData/FontAndColorThemes
