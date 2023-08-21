@@ -1,6 +1,6 @@
 ![Porto Dark 01](./Assets/DarkTheme.png)
 
-# Porto Dark theme for Xcode
+![Porto-Dark-Xcode-Theme](https://socialify.git.ci/andremporto/Porto-Dark-Xcode-Theme/image?description=1&descriptionEditable=Porto%20Dark%20theme%20for%20Xcode&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Auto)
 
 This is a port of the original Xcode Classic Dark theme.
 
